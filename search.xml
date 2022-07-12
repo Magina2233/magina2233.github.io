@@ -18,4 +18,13 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>how to bulid your blog</title>
+    <url>/project/2022/07/13/how-to-bulid-your-blog/</url>
+    <content><![CDATA[<p>如何搭建你的博客？Github就可以帮助我们免费生成静态网址。</p>
+]]></content>
+      <tags>
+        <tag>博客搭建</tag>
+      </tags>
+  </entry>
 </search>
